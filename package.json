@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test main.js"
+    "start": "node main.js"
   },
   "author": "",
   "license": "ISC"
