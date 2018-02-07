@@ -1,0 +1,17 @@
+{
+  "name": "cold-wallet",
+  "version": "1.0.0",
+  "description": "cold wallet",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.8",
+    "nem-sdk": "^1.6.2",
+    "qrcode": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
